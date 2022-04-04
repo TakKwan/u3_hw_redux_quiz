@@ -11,43 +11,43 @@
 1. What is Redux?
 
 ```
-Answer Here
+redux is a framework that helps manage states in react
 ```
 
 2. What packages do we install to use Redux?
 
 ```
-Answer Here
+react-redux and redux
 ```
 
 3. In your own words, describe the flow of how Redux is used to manage state.
 
 ```
-Answer Here
+Redux intercepts the data passed before the data gets stored in state
 ```
 
 4. What do we use in order to manage different pieces of state?
 
 ```
-Answer Here
+store
 ```
 
 5. What do we use to perform an update to state?
 
 ```
-Answer Here
+reducer
 ```
 
 6. How do we access state from Redux?
 
 ```
-Answer Here
+props
 ```
 
 7. In your own words, describe how to set up Redux for a React App.
 
 ```
-Answer Here
+install appropriate packages then make store, reducers and actions files. Map actions to dispatchers and map states to props
 ```
 
 ## Submission
